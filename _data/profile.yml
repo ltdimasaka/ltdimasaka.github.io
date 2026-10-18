@@ -21,10 +21,7 @@ short_bio: >-
   <p>
     Hey, I’m Lou! A math grad and researcher at UP Diliman who loves finding stories in data. When I’m not working with numbers, I’m probably hiking, cooking, or planning my next trip. Glad you’re here!  </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
-  </p>
+  
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
@@ -32,9 +29,9 @@ portrait_caption: >-
 
 education:
 - name: University of the Philippines Diliman
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  logo: /assets/images/badges/UPD.svg
+  position: BSc in Mathematics
+  date: Sep. 2021 - Jul. 2026
 
 # experience:
 # - name: Peking University
