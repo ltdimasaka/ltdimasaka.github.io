@@ -1,17 +1,17 @@
-primary_name: "Your Name"
+primary_name: "Louella Dimasaka"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Louella Dimasaka"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
+- name: Research Associate
+- name: University of the Philippines Diliman
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
-email: "your@email.com"
+email: "ltdimasaka2@gmail.com"
 # cv_link: link-to-your-cv-file
 gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
+github: ltdimasaka
 twitter: your_twitter_id  # Do not include the '@' symbol
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
