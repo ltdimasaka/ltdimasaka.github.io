@@ -19,9 +19,14 @@ orcid: 0000-0000-0000-0000
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Hey, I’m Lou! A math grad and researcher at UP Diliman who loves finding stories in data. When I’m not working with numbers, I’m probably hiking, cooking, or planning my next trip. Glad you’re here!  </p>
+    Hi, I'm Lou!
   <p>
-  
+    I use mathematics and data to explore questions about people, places, and the events that affect them.
+  <p>
+    I studied mathematics at the University of the Philippines Diliman, where my undergraduate thesis focused on typhoon impacts. Today, I’m a Junior Research Associate at UP Diliman, working on projects that involve statistical modelling, data collection, and survey analysis.
+  <p>
+    My work often involves making sense of messy information, that is figuring out how to organise it, what questions it can answer, and how to explain the findings clearly.
+  <p>
 
 portrait_url: /assets/images/photos/portrait.jpeg
 # portrait_caption: >-
